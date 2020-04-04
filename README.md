@@ -1,7 +1,7 @@
 Installation
 ============
 
-`devtools::install_github("silastittes/pomodoror")`
+`devtools::install_github("isinaltinkaya/pomodoror")`
 
 Usage
 =====
